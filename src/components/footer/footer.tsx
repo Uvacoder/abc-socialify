@@ -9,17 +9,17 @@ const Footer = () => {
       <Text style={{ margin: 'unset' }}>
         <span>{`Made with 💖 by `}</span>
         <Link
-          href="https://cryogenicplanet.tech"
+          href="https://abclinks.vercel.app"
           target="_blank"
           rel="noopener noreferrer">
-          CryogenicPlanet
+          abc
         </Link>
         &nbsp;and&nbsp;
         <Link
-          href="https://github.com/wei/"
+          href="https://github.com/uvacoder/"
           target="_blank"
           rel="noopener noreferrer">
-          Wei
+          uvacoder
         </Link>
       </Text>
 
